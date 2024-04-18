@@ -1,2 +1,2 @@
 # Landing-page
-This is a landing page for a imaginary cat website.
+This is a landing page for an imaginary cat website.
